@@ -1,0 +1,34 @@
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/UnityEngine.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/UnityEditor.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Mono.Cecil.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Unity.DataContract.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/matatagrafis_01/theater-sim/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/matatagrafis_01/theater-sim/obj/Debug/Assembly-CSharp.dll
+/Users/matatagrafis_01/theater-sim/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/obj/Debug/Assembly-CSharp.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/UnityEngine.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/UnityEditor.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Mono.Cecil.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Unity.DataContract.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/matatagrafis_01/Unity Projects/theater-sim/Temp/bin/Debug/Mono.Cecil.Mdb.dll
